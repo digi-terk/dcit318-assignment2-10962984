@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\animal\animal\bin\Debug\net8.0\animal.exe
+C:\Users\HP\source\repos\animal\animal\bin\Debug\net8.0\animal.deps.json
+C:\Users\HP\source\repos\animal\animal\bin\Debug\net8.0\animal.runtimeconfig.json
+C:\Users\HP\source\repos\animal\animal\bin\Debug\net8.0\animal.dll
+C:\Users\HP\source\repos\animal\animal\bin\Debug\net8.0\animal.pdb
+C:\Users\HP\source\repos\animal\animal\obj\Debug\net8.0\animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\animal\animal\obj\Debug\net8.0\animal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\animal\animal\obj\Debug\net8.0\animal.AssemblyInfo.cs
+C:\Users\HP\source\repos\animal\animal\obj\Debug\net8.0\animal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\animal\animal\obj\Debug\net8.0\animal.dll
+C:\Users\HP\source\repos\animal\animal\obj\Debug\net8.0\refint\animal.dll
+C:\Users\HP\source\repos\animal\animal\obj\Debug\net8.0\animal.pdb
+C:\Users\HP\source\repos\animal\animal\obj\Debug\net8.0\animal.genruntimeconfig.cache
+C:\Users\HP\source\repos\animal\animal\obj\Debug\net8.0\ref\animal.dll
